@@ -18,6 +18,7 @@ Me apasiona construir soluciones **seguras, escalables y orientadas a datos crí
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### ☁️ DevOps & Otros  
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
@@ -36,7 +37,7 @@ Me apasiona construir soluciones **seguras, escalables y orientadas a datos crí
 → Configuración y mantenimiento en **Siebel CRM** (Chile/Perú).  
 → Workflows, integraciones, modelos de datos y reportes con **Oracle BI Publisher**.  
 
-🔹 **Loginsa** → *Fullstack Developer*  
+🔹 **Loginsa** → *Desarrollador*  
 → Desarrollo de **Plataforma E-learning** con **Vue.js + C# + SQL Server**.  
 → Despliegue y colaboración en **Azure**.  
 → Desarrollo de aplicaciones web + servicios Windows.  
@@ -45,7 +46,7 @@ Me apasiona construir soluciones **seguras, escalables y orientadas a datos crí
 → Sistema de monitoreo de logs tipo **Sentry** 📊.  
 → API REST con **JWT, bcrypt, Joi, Swagger**.  
 → Gestión avanzada de logs con **roles, filtros, paginación y comentarios colaborativos**.  
-→ Próxima integración de **IA 🤖** para análisis automático de errores.  
+→ Integración de **IA 🤖**.  
 
 ---
 
@@ -62,14 +63,14 @@ Me apasiona construir soluciones **seguras, escalables y orientadas a datos crí
 💡 Perfeccionando mis skills en:  
 - **Backend Development avanzado** ⚙️  
 - **Cloud Computing & DevOps** ☁️  
-- **Integraciones con IA aplicada a sistemas de monitoreo** 🤖  
+- **Integraciones con IA** 🤖  
 
 ---
 
 ## 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolás-acuña-mora/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolassimonacuna@correo.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolassimonacuna@gmail.com)  
 
 ---
 
