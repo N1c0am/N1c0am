@@ -43,7 +43,7 @@ Me apasiona construir soluciones **seguras, escalables y orientadas a datos crí
 → Desarrollo de aplicaciones web + servicios Windows.  
 
 🔹 **Foo Talent Group – Smart Projects** → *Backend Developer*  
-→ Sistema de monitoreo de logs tipo **Sentry** 📊.  
+→ Sistema de monitoreo de logs 📊.  
 → API REST con **JWT, bcrypt, Joi, Swagger**.  
 → Gestión avanzada de logs con **roles, filtros, paginación y comentarios colaborativos**.  
 → Integración de **IA 🤖**.  
