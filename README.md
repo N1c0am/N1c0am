@@ -1,6 +1,6 @@
 # 👨‍💻 Hola, soy Nicolás Acuña  
 
-🚀 **Ingeniero de Ejecución en Informática** con +2 años de experiencia en **desarrollo backend, gestión de datos y análisis de información**.  
+🚀 **Ingeniero Informática** con experiencia en **desarrollo backend, gestión de datos y análisis de información**.  
 Me apasiona construir soluciones **seguras, escalables y orientadas a datos críticos** 💾.  
 
 ---
