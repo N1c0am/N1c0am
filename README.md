@@ -2,7 +2,6 @@
 
 🚀 **Ingeniero Informática** con experiencia en **desarrollo backend, gestión de datos y análisis de información**.  
 Me apasiona construir soluciones **seguras, escalables y orientadas a datos críticos** 💾.  
-🌐 Proyecto en vivo: Ver mi repositorio desplegado
 
 🌐 **Repositorio:** [Ver mi repositorio desplegado](https://repositorio-pied-mu.vercel.app/)
 
